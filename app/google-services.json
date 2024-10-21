@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1571024422",
+    "project_id": "logincadastro-d72a0",
+    "storage_bucket": "logincadastro-d72a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1571024422:android:abc79daac3f2166d7040e7",
+        "android_client_info": {
+          "package_name": "com.example.login_cadastro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq42uR1cMwKAqN78uuTRng7-RCJKaaCt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
